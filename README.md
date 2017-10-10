@@ -30,6 +30,8 @@ codigo-example-leaderboard/
     components/
       Counter.js
       Players.js
+    container/
+      Header.js
     data/
       PlayersData.js
     styles/
